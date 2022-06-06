@@ -1,1 +1,0 @@
-# Scrimba-personal-page-project
