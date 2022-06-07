@@ -14,3 +14,14 @@ in a while. So if you've ever wanted to "give back" to Scrimba, you can do that 
 	It would also mean the world to us if you share the courses.  
 
 Happy Coding!
+
+
+# My Personal Page
+
+Scrimba provided the code for this personal page 
+
+I included my basic information and the fun facts
+
+I wrote the HTML code myself; which included the image insertion, the h and p tags, the input tag and the button element.
+
+The changes done in the JavaScript files were directions from the lesson.
